@@ -2134,3 +2134,6 @@
 [submodule "indigo/imu_tools"]
 	path = indigo/imu_tools
 	url = https://aur.archlinux.org/ros-indigo-imu-tools.git
+[submodule "indigo/async_web_server_cpp"]
+	path = indigo/async_web_server_cpp
+	url = https://aur.archlinux.org/ros-indigo-async-web-server-cpp.git
